@@ -32,7 +32,4 @@ while a<i:
 		a=a+1
 		c=c-1
 
-
-
-
-print('lsito')
+print('listo')
