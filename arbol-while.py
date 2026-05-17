@@ -1,4 +1,4 @@
-i = int(input('cuantos niveles quieres que tenga tu arbol: '))
+i = int(input('cuantos niveles quieres que tenga tu arbol: '))+1
 c = i 
 a = 1
 b = 1
